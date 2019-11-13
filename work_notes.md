@@ -16,3 +16,13 @@ I was surprised as how simple it was to create the app. I think we only needed 5
 
 **_What was challenging?_**
 Like the other lectures, I had to find some translations from mac to windows. As far as understanding the material goes, I'll need to look into exactly what's going on here. I feel comfortable that I know the steps, but I'm a little shakey on what's going on behind the scenes.
+
+## Module 2
+**_What went well?_**
+Creating the function to add users to my local database went well.
+
+**_What was interesting/surprising?_**
+Connecting to the API and seeing all of the methods available was interesting. I was surprised on how much data Twitter made avaiable to be analyzed. Location, device, etc. It feels a little invasive.
+
+**_What was challenging?_**
+Working with CSS and the html is a little daunting. Nothing we've done so far feels complicated, but I've never had any experience with it, so there's a lot to learn.
