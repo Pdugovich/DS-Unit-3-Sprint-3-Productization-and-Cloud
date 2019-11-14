@@ -26,3 +26,14 @@ Connecting to the API and seeing all of the methods available was interesting. I
 
 **_What was challenging?_**
 Working with CSS and the html is a little daunting. Nothing we've done so far feels complicated, but I've never had any experience with it, so there's a lot to learn.
+
+## Module 3
+**_What went well?_**
+Integrating our predictive model into the app went smoothly.
+
+**_What was interesting/surprising?_**
+How easily everything fits together. I had an idea in my head of what it takes to make a functional web app, and this is a lot more straightforward than I thought.
+
+
+**_What was challenging?_**
+The most difficult part was finding all of my typos. Missing capitalization, using lower case when I should be capitalizing.
